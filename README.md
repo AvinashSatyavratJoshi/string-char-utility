@@ -1,2 +1,2 @@
-# StringMethods
-A repository that contains class that contains string methods
+# String and Char Utility
+A Repository that contains utility classes that deal with string and char 
